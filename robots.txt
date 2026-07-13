@@ -1,1 +1,1 @@
-Sitemap: https://syue678@github.com/tpa-index/website.git/sitemap.xml
+Sitemap: https://tpa-index.github.io/website/sitemap.xml
